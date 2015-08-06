@@ -31,3 +31,7 @@ footer {
 nav span {
     margin: 0 10px 0 0;
 }
+
+form.search_form > input[type="text"] {
+    width: 300px;
+}
